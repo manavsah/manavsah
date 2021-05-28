@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 <p align = "center">
   <a href="https://github.com/manavsah">
     <img src="https://github-readme-stats.vercel.app/api?username=manavsah&theme=dark&hide_border=true&show_icons=true" width="300em" height="120em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavsah&theme=dark&hide_border=true&show_icons=true" width="300em" height="120em" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=manavsah&theme=dark&hide_border=true&show_icons=true" width="300em" height="120em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavsah&theme=dark&hide_border=true&show_icons=true" width="300em" height="120em" />
     <img src="https://github-profile-trophy.vercel.app/?username=manavsah&row=1&theme=dark&hide_border=true&show_icons=true" height="120em">
   </a>
 </p>
