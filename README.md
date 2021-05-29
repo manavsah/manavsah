@@ -19,14 +19,16 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- ## &#x270d; Blog & Writing -->
-#### <img src="https://img.shields.io/badge/About-Me-blue?style=flat-square" height="25em"/>
+<!-- #### <img src="https://img.shields.io/badge/About-Me-blue?style=flat-square" height="25em"/> -->
+## 😁 Know Me
+
 - 👀 I’m interested in exploring new libraries, languages and tech.
 - 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... It's going to be legen-- wait for it-- Legendary!
 
 
 <!-- ## <img src="https://img.shields.io/badge/Technologies-& Tools-informational?style=flat-square" height="25em" /> -->
-## 🔧  Technologies & Tools
+## 🔧 Technologies & Tools
 - ![C++](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
   ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
   ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
